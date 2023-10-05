@@ -1,7 +1,7 @@
 ## **👋 Hello, I am Aneesha Rama**
 
  
-As an experienced **MERN** stack developer and **Web 3.0** enthusiast, I possess a passion for creating innovative solutions with **Javascript**. Through hands-on experience in building real-world projects, I have gained extensive expertise in utilizing **MongoDB**, **ExpressJS**, **ReactJS**, and **NodeJS** to develop fully functional web applications. Currently, I am expanding my skillset by leveraging **NextJS** to build secure and performant web applications.
+I'm a software developer with a passion for web3, blockchain, and cybersecurity. Committed to innovation, I explore the future of technology while ensuring its security. Let's connect and build the decentralized digital world of tomorrow.
 
 ### **Tools and Technologies** I use :
 
